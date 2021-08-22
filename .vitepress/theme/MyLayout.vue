@@ -15,9 +15,9 @@ const { Layout } = DefaultTheme
 
 <style>
 .logo {
-  margin-right: 0.75rem;
-  height: 2.7rem;
+  /* !important 进行属性覆盖 */
+  height: 2.7rem !important; 
   width: 3rem;
-  vertical-align: middle;
+  vertical-align: middle !important;
 }
 </style>

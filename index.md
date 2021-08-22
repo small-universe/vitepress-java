@@ -2,9 +2,9 @@
 home: true
 heroImage: /heroImage.png
 #heroAlt: Logo image
-# heroText: Hero Title
+# heroText: false
 # tagline: Hero subtitle
-actionText: 快速开始
+# actionText: 快速开始
 actionLink: /java/
 features:
   - title: 性能与颜值
