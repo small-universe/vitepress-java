@@ -43,5 +43,17 @@ module.exports = {
             text: 'Java',
             link: '/java/'
         }]
-    }
+    },
+
+    // markdown增强配置
+    markdown: {
+        // options for markdown-it-table-of-contents
+        toc: { includeLevel: [1, 2, 3] },
+    
+        config: (md) => {
+          // use more markdown-it plugins!
+          md.use(require('markdown-it-mark'))
+          md.render('==marked==')
+        }
+      }
 }
