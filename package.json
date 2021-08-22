@@ -1,0 +1,16 @@
+{
+  "name": "vitepress-java",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nanci",
+  "description": "Java知识体系",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev .",
+    "build": "vitepress build .",
+    "serve": "vitepress serve ."
+  },
+  "devDependencies": {
+    "vitepress": "^0.16.1"
+  }
+}
