@@ -16,7 +16,7 @@ module.exports = {
     ],
     // 主题配置
     themeConfig: {
-        logo: '/favicon.png',
+        logo: '/logo.png',
 
         editLinks: true,
         editLinkText: 'Edit this page on GitHub',
