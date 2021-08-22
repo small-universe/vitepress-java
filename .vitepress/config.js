@@ -24,8 +24,8 @@ module.exports = {
 
         // 搜索
         algolia: {
-            apiKey: '',
-            indexName: 'vitepress-java'
+            apiKey: process.env.ALGOLIA_API_KEY,
+            indexName: process.env.ALGOLIA_INDEX_NAME
         },
 
         //   头部导航
