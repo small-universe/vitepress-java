@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Java 入门到入土", // 网站标题
+    title: "JavaExing", // 网站标题
     description: 'vitepress 体验.', //网站描述
     base: '/', //  部署时的路径 默认 /  可以使用二级地址 /base/
     lang: 'zh-CN', //语言

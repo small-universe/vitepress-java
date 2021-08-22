@@ -2,7 +2,7 @@
 home: true
 heroImage: /heroImage.png
 #heroAlt: Logo image
-# heroText: false
+heroText: Welcome JavaExing
 # tagline: Hero subtitle
 # actionText: 快速开始
 actionLink: /java/
