@@ -14,7 +14,7 @@ const { Layout } = DefaultTheme
 </template>
 
 <style>
-.logo[data-v-4e690eda] {
+.logo {
   margin-right: 0.75rem;
   height: 2.7rem;
   width: 3rem;
