@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "nanci",
-  "description": "Java知识体系",
+  "description": "Java 知识体系学习站点",
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev .",
