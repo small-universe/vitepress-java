@@ -1,0 +1,1 @@
+import{o as t,c as e}from"./app.80e2489d.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"java/index.md","lastUpdated":1629631245340}',r={};r.render=function(a,r,d,i,n,o){return t(),e("div")};export{a as __pageData,r as default};
