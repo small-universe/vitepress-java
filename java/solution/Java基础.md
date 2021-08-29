@@ -1,9 +1,4 @@
----
-title: Java基础
-article: false
----
-
-
+# Java基础
 
 ## 问题：
 

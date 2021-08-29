@@ -1,8 +1,4 @@
----
-title: JavaSE-注解
----
-
-<!-- more -->
+# JavaSE-注解
 
 ## 一、理解注解
 

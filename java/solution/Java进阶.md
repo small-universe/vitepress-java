@@ -1,9 +1,4 @@
----
-title: Java进阶
-article: false
----
-
-
+# Java进阶
 
 ## 问题：
 

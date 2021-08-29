@@ -1,8 +1,5 @@
----
-title: JavaSE-集合
----
+# JavaSE-集合
 
-<!-- more -->
 
 ## 集合概要
 

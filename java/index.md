@@ -18,6 +18,6 @@
 7、[JavaSE-时间与日期](time.md)
 
 ## 面试题
-[JavaSE-基础](./solution/Java基础.md)
+[JavaSE-基础](solution/Java基础.md)
 
-[JavaSE-基础](./solution/Java进阶.md)
+[JavaSE-进阶](solution/Java进阶.md)

@@ -1,8 +1,5 @@
----
-title: JavaSE-泛型
----
+# JavaSE-泛型
 
-<!-- more -->
 
 一、前言
 --
