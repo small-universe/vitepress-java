@@ -20,4 +20,13 @@ const { Layout } = DefaultTheme
   width: 3rem;
   vertical-align: middle !important;
 }
+.h1{
+  align-content: center !important;
+}
+.page{
+  margin-left: 6.0rem !important;
+}
+.container{
+  max-width: 55rem !important;
+}
 </style>
