@@ -1,1 +1,0 @@
-import{o as a,c as n,d as s}from"./app.54dc5400.js";const t='{"title":"Java","description":"","frontmatter":{},"relativePath":"java/index.md","lastUpdated":1629646142111}',p={},o=[s('',3)];p.render=function(s,t,p,e,c,l){return a(),n("div",null,o)};export{t as __pageData,p as default};
