@@ -21,6 +21,16 @@ const { Layout } = DefaultTheme
   vertical-align: middle !important;
 }
 
+/** 页面 */
+.page{
+  margin-left: 6.0rem !important;
+}
+
+/** 页内的容器 */
+.container{
+  max-width: 55rem !important;
+}
+
 /** 首页h1标签设置单独样式 */
 h1[id='main-title'] {
   color: black;
