@@ -3,9 +3,9 @@ home: true
 heroImage: /heroImage.png
 #heroAlt: Logo image
 heroText: Welcome to JavaExing
-# tagline: Hero subtitle
-# actionText: 快速开始
-actionLink: /java/
+tagline: ☕
+actionText: 👉 快速开始 
+actionLink: /字符串处理/
 features:
   - title: 建站首选
     details: 使用 vitepress 驱动的静态网站，极速vite构建、超强的vue 3.x性能、简洁而优雅的外观
@@ -17,5 +17,5 @@ footer: MIT Licensed | Copyright © 2021-present Evan You
 ---
 
 ::: info Thanks
-The website is powered by [VitePress 0.16.1(WIP)](https://vitepress.vuejs.org/)
+The website is powered by [VitePress 0.20.1(WIP)](https://vitepress.vuejs.org/)
 :::

@@ -16,7 +16,7 @@ module.exports = {
     ],
     // 主题配置
     themeConfig: {
-        logo: '/fenix.png',
+        logo: '/favicon.png',
 
         editLinks: true,
         editLinkText: 'Edit this page on GitHub',
@@ -28,21 +28,36 @@ module.exports = {
             indexName: process.env.ALGOLIA_INDEX_NAME
         },
 
-        //   头部导航
-        nav: [{
-                text: '首页',
-                link: '/'
-            },
+        // 头部导航
+        // nav: [{
+        //         text: '首页',
+        //         link: '/'
+        //     },
+        //     {
+        //         text: '目录',
+        //         items: [
+        //             {text: '字符串处理', link:'/字符串处理/'},
+        //             {text: '函数式接口', link:'/函数式接口/'}
+        //         ]
+        //     },
+        // ],
+        // 侧边导航
+        sidebar: [
             {
-                text: '导航',
-                link: '/java/'
-            },
-        ],
-        //   侧边导航
-        sidebar: [{
-            text: 'Java',
-            link: '/java/'
-        }]
+            text: '字符串处理',
+            children: [
+                {text: 'String', link: '/字符串处理/String'},
+                {text:'StringBuffer', link: '/字符串处理/StringBuffer'},
+                {text: 'StringBuilder', link: '/字符串处理/StringBuilder'}
+            ]
+        },
+        {
+            text: '函数式编程',
+            children: [
+                {text: 'Lambda表达式', link: ''}
+            ]
+        }
+    ]
     },
 
     // markdown增强配置

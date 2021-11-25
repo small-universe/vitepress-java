@@ -32,3 +32,4 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages
           FOLDER: .vitepress/dist
+          CNAME: java.dreamagain.top

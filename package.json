@@ -11,8 +11,8 @@
     "serve": "vitepress serve ."
   },
   "devDependencies": {
-    "vitepress": "^0.16.1",
     "markdown-it-mark": "^3.0.1",
-    "markdown-it-table-of-contents": "^0.5.2"
+    "markdown-it-table-of-contents": "^0.5.2",
+    "vitepress": "^0.20.1"
   }
 }
